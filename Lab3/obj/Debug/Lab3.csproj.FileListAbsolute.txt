@@ -1,0 +1,15 @@
+C:\Users\kolya\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\kolya\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\kolya\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\MainWindow.g.cs
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\App.g.cs
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\Lab3_MarkupCompile.cache
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\Lab3_MarkupCompile.lref
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\MainWindow.baml
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\Lab3.g.resources
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\kolya\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
